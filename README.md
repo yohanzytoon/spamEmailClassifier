@@ -13,7 +13,7 @@ While the project demonstrates good predictive performance, the model appears to
 ## NLP Techniques Used
 - **Text Preprocessing**: Stopword removal, lemmatization, and punctuation removal using **NLTK**.
 - **Feature Engineering**: TF-IDF and word frequency-based vectorization.
-- **Dimensionality Reduction**: PCA & t-SNE visualizations for better feature understanding.
+
 
 ## Models Implemented
 | Model              | Accuracy  | Precision (Spam) | Recall (Spam) | F1-Score (Spam) |
