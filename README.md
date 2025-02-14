@@ -46,9 +46,10 @@ While the project demonstrates good predictive performance, the model appears to
 
 ## 📂 Files in This Repository
 - `spam.ipynb` - Jupyter notebook for training, evaluation and visualization.
-- `emails.csv` - The dataset used for training and testing.
+- `data/emails.csv` - The dataset used for training and testing.
 - `spam.py` - python file for training, evaluation and visualization.  
 - `app.py` - Streamlit-based UI for classifying emails.
+- `requirements.txt`- Libraries needed for the project.
 
 ## 🔗 Future Work
 - Improve class balance using resampling techniques.
