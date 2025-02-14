@@ -10,7 +10,7 @@ While the project demonstrates good predictive performance, the model appears to
 - Each email is represented by **3,000 numerical features**, corresponding to word frequencies.
 - The final column, `Prediction`, contains the target labels: `0` (ham) and `1` (spam).
 
-## 🔬 NLP Techniques Used
+## NLP Techniques Used
 - **Text Preprocessing**: Stopword removal, lemmatization, and punctuation removal using **NLTK**.
 - **Feature Engineering**: TF-IDF and word frequency-based vectorization.
 - **Dimensionality Reduction**: PCA & t-SNE visualizations for better feature understanding.
